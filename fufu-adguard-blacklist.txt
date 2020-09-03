@@ -1,7 +1,7 @@
 !
 ! Title: FuFu - AdGuard BlackList
 ! Description: Filter list for my own needs generated from various sources with domain blocking / exception rules for use with AdGuard
-! Last modified: 2020-09-02T03:08:04.343Z
+! Last modified: 2020-09-03T03:08:04.409Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.9
 !
